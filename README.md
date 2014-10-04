@@ -8,7 +8,7 @@ Game patcher by ArtLavrov
 Used utilities:
 
 * Paktools (https://github.com/artlavrov/paktools)
-* JPEXS Free Flash Decompiler (http://www.free-decompiler.com/flash/)
+* JPEXS Free Flash Decompiler (https://github.com/jindrapetrik/jpexs-decompiler)
 
 You will need resources from the original game.
 
