@@ -18,8 +18,10 @@ Files that should be updated (fonts can be replaced with with JPEXS FFD, texts w
 * global.pak: *.ttf, *.swf, localization.ltb
 * menus.pak: *.swf
 * shop.pak: *.swf
-* tutorial.pak: *.swf
+* tutorial.pak: *.swf 
 
-Also, yet there are some pictures in menus.pak/mainmenu.swf that would be nice to translate.
+Not translated yet:
 
-Also I didn't manage to replace the loading icon yet (loadingicons.pak/loading.anb).
+* Loading icon (loadingicons.pak/loading.anb)
+* Title picture (menus.pak/mainmenu.swf)
+
