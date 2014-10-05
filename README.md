@@ -1,7 +1,7 @@
 adventuretime-rus
 =================
 
-WayForward's "Adventure Time: Explore the Dungeon Because I Don't Know!" language patcher by ArtLavrov
+WayForward's "Adventure Time: Explore the Dungeon Because I Don't Know!" language patcher
 
 Used utilities:
 
