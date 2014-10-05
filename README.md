@@ -20,6 +20,6 @@ Files that should be updated (fonts can be replaced with with JPEXS FFD, texts w
 
 Not translated yet:
 
-* Loading icon (loadingicons.pak/loading.anb)
-* Title picture (menus.pak/mainmenu.swf)
+* Loading icon (loadingicons.pak/loading.anb) - no tools for importing images back into .anb
+* Title picture (menus.pak/mainmenu.swf) - transparency issue after importing into .swf
 * Sounds
