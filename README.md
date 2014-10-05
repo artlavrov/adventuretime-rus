@@ -3,7 +3,7 @@ adventuretime-rus
 
 Adventure Time: Explore the Dungeon Because I Don't Know! 
 
-Game patcher by ArtLavrov
+Language patcher by ArtLavrov
 
 Used utilities:
 
