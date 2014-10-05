@@ -24,4 +24,4 @@ Not translated yet:
 
 * Loading icon (loadingicons.pak/loading.anb)
 * Title picture (menus.pak/mainmenu.swf)
-
+* Sounds
