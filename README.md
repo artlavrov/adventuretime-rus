@@ -21,3 +21,4 @@ Files that should be updated (fonts can be replaced with with JPEXS FFD, texts w
 * tutorial.pak: *.swf
 
 Also, yet there are some pictures in menus.pak/mainmenu.swf that would be nice to translate.
+Also the loading icon isn't replaced yet (loadingicons.pak/loading.anb).
