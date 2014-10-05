@@ -9,6 +9,7 @@ Used utilities:
 
 * Paktools (https://github.com/artlavrov/paktools)
 * JPEXS Free Flash Decompiler (https://github.com/jindrapetrik/jpexs-decompiler)
+* wfLZEx (.anb to .png converter) may be useful too (https://github.com/meh2481/wfLZEx)
 
 You will need resources from the original game.
 
