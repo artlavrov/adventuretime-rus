@@ -5,7 +5,8 @@ WayForward's "Adventure Time: Explore the Dungeon Because I Don't Know!" languag
 
 Used utilities:
 
-* Paktools (https://github.com/artlavrov/paktools)
+* paktools (https://github.com/artlavrov/paktools)
+* ltbtools (https://github.com/artlavrov/ltbtools)
 * JPEXS Free Flash Decompiler (https://github.com/jindrapetrik/jpexs-decompiler)
 * wfLZEx (.anb to .png converter) may be useful too (https://github.com/meh2481/wfLZEx)
 
